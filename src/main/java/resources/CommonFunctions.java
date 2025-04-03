@@ -34,6 +34,9 @@ public class CommonFunctions {
 			if(ele.getText().equals("mobiles under 20000 5g phones latest")) {
 				ele.click();
 				System.out.println("test");
+				System.out.println("test22");
+				System.out.println("test33");
+				System.out.println("test44");
 				break;
 			}
 		}	
